@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #e6ffbe;
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background: #0074d9;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+h1, h2 {
+    margin-top: 0;
+}
+
+a {
+    color: #0074d9;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 15px 0;
+    background: #eee;
+    color: #555;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
